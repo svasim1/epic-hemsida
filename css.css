@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(39, 39, 39);
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#guessButton{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    height: 4em;
+    color: green;
+}
+
+#numberInput{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#guessContainer{
+    width: 25%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
